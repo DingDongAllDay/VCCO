@@ -15,7 +15,7 @@ out collectively by the network. vccoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the vccoin Core software, see [https://vccoin.org](https://vccoin.org).
+the vccoin Core software, see [https://veracruzcoin.io](https://veracruzcoin.io).
 
 License
 -------
