@@ -3,7 +3,7 @@ vccoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/vccoin-project/vccoin.svg?branch=master)](https://travis-ci.org/vccoin-project/vccoin)
 
-https://vccoin.org
+https://vercruzcoin.io
 
 What is vccoin?
 ----------------
